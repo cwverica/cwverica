@@ -42,6 +42,12 @@ Always learning, because there is always so much to learn!
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="Windows logo" width="50px" height="50px" />
 
+---
+
+### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwverica)](https://github.com/anuraghazra/github-readme-stats)
+[![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwverica&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **cwverica/cwverica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
