@@ -8,7 +8,8 @@ Always learning, because there is always so much to learn!
 ---
 
 ### My current toolbox:
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android logo" width="50px" height="50px" /><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="Apache logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="CodePen logo" width="50px" height="50px" />
