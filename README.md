@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Casey Verica!
 
-I'm a Software Engineer with full-stack knowledge, but I'm focused on back end development.
+I'm a full-stack software engineer.
 Always learning, because there is always so much to learn!
 
 ---
